@@ -8,33 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6149791b2cd44791",
+            "id": "5ac960dc513a18e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git 的使用.md",
+                "file": "the-use-of git.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2932479dc084532a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240921180842.png"
-              }
-            }
-          },
-          {
-            "id": "5ac960dc513a18e5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -119,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git 的使用.md",
+                "file": "the-use-of git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git 的使用.md",
+                "file": "the-use-of git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git 的使用.md"
+                "file": "the-use-of git.md"
               }
             }
           }
@@ -167,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,31 +161,33 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6149791b2cd44791",
+  "active": "5ac960dc513a18e5",
   "lastOpenFiles": [
-    "Pasted image 20240921182225.png",
-    "Pasted image 20240921181851.png",
-    "关于创建ZZU学习资源网站.md",
-    "Pasted image 20240921180842.png",
-    "Pasted image 20240921164522.png",
-    "Pasted image 20240921163458.png",
+    "website/建设ZZU学习资源网站.md",
     "git 的使用.md",
-    "Pasted image 20240921173857.png",
-    "Pasted image 20240921173729.png",
-    "Pasted image 20240921172926.png",
-    "Pasted image 20240921172400.png",
-    "Pasted image 20240921171835.png",
-    "Pasted image 20240921171734.png",
-    "网站/建设ZZU学习资源网站.md",
+    "关于创建ZZU学习资源网站.md",
+    "website/pictures/Pasted image 20240921163458.png",
+    "未命名.md",
+    "website/pictures",
+    "the-use-of git.md",
+    "website/pictures/Pasted image 20240921180842.png",
+    "website/pictures/Pasted image 20240921182225.png",
+    "website/pictures/Pasted image 20240921181851.png",
+    "website/pictures/Pasted image 20240921164522.png",
+    "website/pictures/Pasted image 20240921173857.png",
+    "website/pictures/Pasted image 20240921173729.png",
+    "website/pictures/Pasted image 20240921172926.png",
+    "website/pictures/Pasted image 20240921172400.png",
+    "website/pictures/Pasted image 20240921171835.png",
     "创建链接.md",
     "未命名.canvas",
     "docs/01. course_resources/04. fundamentals_of_mathematics_and_physics_&_English.md",
-    "网站",
+    "website",
     "site/search/search_index.json",
     "site/search",
     "site/assets/javascripts/glightbox.min.js",
@@ -213,7 +196,6 @@
     "site/06. self-study_resources/00. introduction/index.html",
     "site/06. self-study_resources/01. recommendations",
     "site/06. self-study_resources/00. introduction",
-    "site/06. self-study_resources",
     "docs/00. home_page/01. contribution_guidelines.md",
     "docs/00. home_page/02. submission-template/00. course_submission_template.md",
     "README.md",
@@ -232,8 +214,6 @@
     "01 计划/99 progressbar.md",
     "08 常用各类表/LaTeX 使用手册.md",
     "12 其他/契合点.md",
-    "12 其他/口令.md",
-    "05 课程笔记/08 CS61B/04. 终端指南.md",
     "02 算法整理/00 算法导图.canvas",
     "02 算法整理/未命名.canvas"
   ]
