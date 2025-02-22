@@ -13,9 +13,9 @@ git 的本地数据管理分为三个区域，包括工作区，暂存区和本�
 
 1. 工作区（Working Directoy）,也就是自己电脑上的目录；
 	   使用 `ls` 命令可以查看工作区内容；
-1. 暂存区（Staging Area）,是一种临时储存区域，用于保存即将提交到 git 仓库的修改内容；
+2. 暂存区（Staging Area）,是一种临时储存区域，用于保存即将提交到 git 仓库的修改内容；
 	   使用 `git ls-files` 可以查看暂存区的内容； 
-1. 本地仓库（Local Repository）就是使用 `git init` 创建的本地仓库；用于存储代码和版本信息；
+3. 本地仓库（Local Repository）就是使用 `git init` 创建的本地仓库；用于存储代码和版本信息；
 	![[Pasted image 20240921163458.png|350]]
 ---
 
@@ -35,6 +35,28 @@ git 的本地数据管理分为三个区域，包括工作区，暂存区和本�
 
 ---
 
+# 远程仓库
+
+`git remote add  (HTTPS) ` 用于添加远程仓库
+![[../../00 attachment/Pasted image 20250222183756.png|800]]
+
+*这里的 origin 是起初建设 zzu 资源网站时候建设的远程仓库，new_origin 是为了日常使用建设的仓库。*
+
+### `origin` 的定义和作用
+
+1. **默认远程仓库名称**：
+    
+    - `origin` 是 Git 中默认的远程仓库名称。当使用 `git clone` 命令克隆一个远程仓库时，Git 会自动将该仓库命名为 `origin`。
+    - 这个名称是一个约定俗成的默认值，用于简化与远程仓库的交互。
+2. **主要用途**：
+    
+    - `origin` 通常指向你最初克隆的远程仓库。它是本地仓库与远程仓库之间的主要桥梁，用于推送和拉取代码。
+    - 例如，使用 `git push origin master` 可以将本地的 `master` 分支推送到远程仓库的 `master` 分支。
+    - 使用 `git pull origin master` 可以将远程仓库的 `master` 分支的更新拉取到本地的 `master` 分支。
+3. **灵活性**：
+    
+    - 虽然 `origin` 是默认名称，但你可以根据需要更改它。例如，使用 `git remote rename origin newOrigin` 可以将 `origin` 重命名为 `newOrigin`。
+    - 你也可以为不同的远程仓库设置不同的名称，如 `upstream`、`backup` 等。
 
 # git reset 的使用 
 
@@ -47,7 +69,6 @@ git 的本地数据管理分为三个区域，包括工作区，暂存区和本�
 `git reflog` 可以查看我们操作的所有历史记录；
 
 ![[Pasted image 20240921170304.png|500]]
-
 
 ---
 
