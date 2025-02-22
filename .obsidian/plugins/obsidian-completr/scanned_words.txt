@@ -12601,6 +12601,7 @@ Dynasty
 Duchess
 December
 Deeping
+Descent
 true
 tuple
 tie
@@ -160070,6 +160071,7 @@ ratified
 regime
 required
 rev
+rate
 get
 gcd
 good
@@ -208651,6 +208653,7 @@ GGGGGGGGG
 Gradually
 Gala
 Gothic
+Gradient
 Node
 Note
 Nullspace
