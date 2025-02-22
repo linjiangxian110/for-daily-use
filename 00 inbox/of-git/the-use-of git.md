@@ -57,6 +57,7 @@ git 的本地数据管理分为三个区域，包括工作区，暂存区和本�
     
     - 虽然 `origin` 是默认名称，但你可以根据需要更改它。例如，使用 `git remote rename origin newOrigin` 可以将 `origin` 重命名为 `newOrigin`。
     - 你也可以为不同的远程仓库设置不同的名称，如 `upstream`、`backup` 等。
+4. 在使用 `git pull` 或 `git push` 命令时，如果没有指定中间仓库，Git 默认提交到的远程仓库通常是 `origin`
 
 # git reset 的使用 
 
