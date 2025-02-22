@@ -6234,6 +6234,7 @@ Suzhou
 Soviet
 Subsequently
 Station
+Strutured
 DEV
 Differential
 DP
@@ -12598,6 +12599,7 @@ DNF
 Dynasty
 Duchess
 December
+Deeping
 true
 tuple
 tie
@@ -31117,6 +31119,7 @@ feast
 fruits
 framework
 formalizing
+feature
 const
 char
 cin
@@ -171144,6 +171147,7 @@ RNNs
 RoboCup
 Renaissance
 RAM
+Regression
 Error
 Edge
 Extended
@@ -201568,6 +201572,8 @@ Looking
 Leonardo
 Lisa
 Leonard
+Learning
+Loss
 Graph
 GCD
 Greatest
@@ -237875,6 +237881,7 @@ Caribbean
 Cultural
 City
 Cache
+Classification
 First
 Firth
 Floyd
@@ -257727,6 +257734,7 @@ Modern
 Mars
 MAR
 MDR
+Machine
 Kruskal
 Koch
 KGgoAAAANSUhEUgAABwkAAAPoCAYAAAAlWsEpAAAgAElEQVR
@@ -343221,6 +343229,8 @@ Yemen
 Yaping
 York
 Yulong
+YES
+Youtube
 jgLEl
 jIigIYn
 jiXcqIjhLEmdJ
