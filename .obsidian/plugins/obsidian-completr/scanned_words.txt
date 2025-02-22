@@ -6235,6 +6235,7 @@ Soviet
 Subsequently
 Station
 Strutured
+Surface
 DEV
 Differential
 DP
@@ -66602,6 +66603,7 @@ launch
 landing
 liberalize
 lengthy
+label
 set
 stack
 string
@@ -257735,6 +257737,7 @@ Mars
 MAR
 MDR
 Machine
+MAE
 Kruskal
 Koch
 KGgoAAAANSUhEUgAABwkAAAPoCAYAAAAlWsEpAAAgAElEQVR
@@ -280493,6 +280496,7 @@ Opposite
 Ocean
 October
 Once
+Optimization
 Queue
 QU
 QEDUk
