@@ -1,0 +1,17 @@
+{
+  "targetLanguage": {
+    "text": "English",
+    "code": "en"
+  },
+  "apiType": {
+    "text": "Builtin",
+    "value": "0"
+  },
+  "translateApiUrl": "558d118929755615",
+  "maxCharacters": 2000,
+  "token": "rxvm1vUMH3l6KVdsr1GPHJ3AUbbYNmkY",
+  "region": {
+    "text": "Global",
+    "code": "global"
+  }
+}

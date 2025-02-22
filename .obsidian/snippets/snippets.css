@@ -1,0 +1,8 @@
+
+@media print {  
+    body, p, li {  
+        line-height: 1.8; /* 调整行高，可以根据需要调整 */  
+        margin-bottom: 1em; /* 段落之间的间距，模拟空行 */  
+    }  
+    /* 其他样式调整，如字体、页边距等 */  
+}

@@ -19,5 +19,8 @@
   "better-export-pdf",
   "auto-displaystyle-inline-math",
   "obsidian-linter",
-  "cm-chs-patch"
+  "cm-chs-patch",
+  "language-translator",
+  "obsidian-pandoc",
+  "obsidian-export-image"
 ]

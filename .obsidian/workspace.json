@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ecc68a791bb85cb",
+        "id": "57216c76224f52fc",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac960dc513a18e5",
+            "id": "03f7dfb48bd12f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-algo/README.md",
+                "file": "00 inbox/计算机组成原理笔记.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "计算机组成原理笔记"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
     "id": "bb5b10eba3a43a11",
@@ -84,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
-              "state": {}
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -92,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello-algo/README.md",
+                "file": "00 inbox/临时使用/离散数学代码解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "离散数学代码解释 的反向链接列表"
             }
           },
           {
@@ -118,10 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello-algo/README.md",
+                "file": "00 inbox/临时使用/离散数学代码解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "离散数学代码解释 的出链列表"
             }
           },
           {
@@ -132,7 +149,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -141,15 +160,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello-algo/README.md"
-              }
+                "file": "00 inbox/临时使用/离散数学代码解释.md"
+              },
+              "icon": "lucide-list",
+              "title": "离散数学代码解释 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,54 +187,53 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5ac960dc513a18e5",
+  "active": "03f7dfb48bd12f8c",
   "lastOpenFiles": [
-    "hello-algo/docs/chapter_preface/about_the_book.md",
-    "hello-algo/docs/chapter_preface/about_the_book.assets/hello_algo_mindmap.png",
-    "hello-algo/docs/chapter_array_and_linkedlist/array.assets/array_insert_element.png",
-    "hello-algo/docs/chapter_appendix/installation.assets/vscode_extension_installation.png",
-    "hello-algo/docs/chapter_appendix/installation.assets/vscode_installation.png",
-    "hello-algo/docs/chapter_appendix/contribution.md",
-    "hello-algo/docs/chapter_appendix/contribution.assets/edit_markdown.png",
-    "hello-algo/README.md",
-    "hello-algo/docs/assets/avatar/avatar_codingonion.jpg",
-    "the-use-of git.md",
-    "hello-algo/zh-hant/docs/chapter_preface/suggestions.assets/pythontutor_example.png",
-    "hello-algo/zh-hant/docs/chapter_searching/binary_search.assets/binary_search_step6.png",
-    "hello-algo/zh-hant/docs/chapter_preface/suggestions.assets/learning_route.png",
-    "hello-algo/zh-hant/docs/chapter_preface/suggestions.assets/download_code.png",
-    "hello-algo/zh-hant/codes/zig/chapter_stack_and_queue/linkedlist_queue.zig",
-    "hello-algo/zh-hant/codes/zig/chapter_stack_and_queue/linkedlist_stack.zig",
-    "hello-algo/zh-hant/codes/typescript/modules/Vertex.ts",
-    "hello-algo/zh-hant/codes/typescript/modules/TreeNode.ts",
-    "hello-algo/zh-hant/codes/typescript/modules/PrintUtil.ts",
-    "hello-algo/zh-hant/codes/typescript/modules/ListNode.ts",
-    "hello-algo/zh-hant/codes/typescript/chapter_tree/binary_tree_dfs.ts",
-    "hello-algo/zh-hant/codes/typescript/chapter_tree/binary_tree_bfs.ts",
-    "hello-algo/zh-hant/codes/typescript/chapter_tree/binary_tree.ts",
-    "hello-algo/zh-hant/codes/typescript/chapter_tree/binary_search_tree.ts",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_stack_and_queue/linkedlist_stack.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_stack_and_queue/linkedlist_queue.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_stack_and_queue/array_stack.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_stack_and_queue/array_queue.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_tree/binary_tree_dfs.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_tree/binary_tree_bfs.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_tree/binary_search_tree.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_tree/array_binary_tree.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/selection_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/radix_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/quick_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/merge_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/insertion_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/heap_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/counting_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/bucket_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_sorting/bubble_sort.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_searching/two_sum.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_searching/binary_search_insertion.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_searching/binary_search_edge.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_searching/binary_search.md",
-    "hello-algo/zh-hant/codes/pythontutor/chapter_heap/top_k.md",
+    "00 inbox/日常学习.md",
+    "00 inbox/计算机组成原理笔记.md",
+    "00 inbox/数据结构与算法刷题记录.md",
+    "00 inbox/计智院四六级学习打卡激励计划.md",
+    "00 inbox/经验分享.md",
+    "00 attachment/Pasted image 20250222121510.png",
+    "00 inbox/of-obsidian/obsidian的使用学习.md",
+    "日记/2024.09.29_周日.md",
+    "00 attachment/Pasted image 20250221163337.png",
+    "00 attachment/Pasted image 20250221162342.png",
+    "00 attachment/Pasted image 20250221161202.png",
+    "00 attachment/Pasted image 20250221155556.png",
+    "00 attachment/Pasted image 20250221154751.png",
+    "00 attachment/Pasted image 20250221154239.png",
+    "00 attachment/Pasted image 20250221153719.png",
+    "00 attachment/Pasted image 20250221142629.png",
+    "00 attachment/Pasted image 20250221142453.png",
+    "00 inbox/临时使用/论文学习.md",
+    "00 inbox/临时使用/近代史课后题.md",
+    "00 inbox/临时使用/数字逻辑试卷.md",
+    "00 inbox/临时使用/毛概5-6章.md",
+    "00 inbox/临时使用/毛概.md",
+    "00 inbox/临时使用/图论实验小组实验报告.md",
+    "00 inbox/临时使用/英语复习.md",
+    "00 inbox/临时使用/关于学院数字逻辑实验课程考核标准的统一：.md",
+    "00 inbox/of-C++/C++的学习记录.md",
+    "00 inbox/临时使用/工作标准.md",
+    "00 inbox/临时使用/毛概复习.md",
+    "00 inbox/临时使用/函数分析.md",
+    "00 inbox/临时使用/学习经验分享会总结.md",
+    "00 inbox/临时使用/集合实验运行结果.md",
+    "00 inbox/临时使用/国奖增补候选人需要做的工作.md",
+    "00 inbox/临时使用/请假流程.md",
+    "00 inbox/临时使用/离散数学代码解释.md",
+    "00 inbox/临时使用/日常作业.md",
+    "未命名",
+    "PPT",
+    "00 inbox/of-Excel/Excel人员去向统计操作.html",
+    "00 attachment/12.xlsx-Excel2024-09-3018-56-21-ezgif.com-mng-to-gif-converter.mng",
+    "00 templates",
+    "00 template",
+    "日记",
+    "00 inbox/日记",
+    "00 inbox/临时使用",
+    "00 inbox/离散数学",
     "未命名.canvas",
     "02 算法整理/00 算法导图.canvas",
     "02 算法整理/未命名.canvas"

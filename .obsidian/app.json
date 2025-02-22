@@ -2,7 +2,7 @@
   "promptDelete": false,
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 Inbox",
+  "newFileFolderPath": "00 inbox",
   "attachmentFolderPath": "00 attachment",
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
@@ -12,5 +12,7 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "showLineNumber": true,
+  "newLinkFormat": "relative"
 }

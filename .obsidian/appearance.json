@@ -3,5 +3,9 @@
   "cssTheme": "Blue Topaz",
   "baseFontSize": 20,
   "translucency": false,
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "snippets",
+    "PDF"
+  ]
 }
