@@ -6236,6 +6236,8 @@ Subsequently
 Station
 Strutured
 Surface
+Sigmoid
+SIgmoid
 DEV
 Differential
 DP
@@ -41381,6 +41383,7 @@ cosmos
 conducted
 commercial
 collaboration
+curve
 vector
 value
 void
@@ -72741,6 +72744,7 @@ successful
 satellite
 showcase
 supervise
+sigmoid
 multiset
 map
 multimap
@@ -105900,6 +105904,7 @@ hundred
 hunger
 hour
 humanity
+hyperparrameters
 int
 insert
 iterator
@@ -160072,6 +160077,7 @@ regime
 required
 rev
 rate
+red
 get
 gcd
 good
@@ -231974,6 +231980,7 @@ Paris
 Picchu
 PLA
 Program
+Piecewise
 Cycle
 Common
 Conquer
@@ -250800,6 +250807,7 @@ Take
 Tiangong
 Tang
 Tea
+Train
 Minimum
 MAXN
 Mask
@@ -318358,6 +318366,7 @@ Hongbo
 Haipeng
 Heritage
 Henry
+Hard
 Unitary
 US
 Unit
