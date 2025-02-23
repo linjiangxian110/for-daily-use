@@ -23,5 +23,6 @@
   "language-translator",
   "obsidian-pandoc",
   "obsidian-export-image",
-  "obsidian-git"
+  "obsidian-git",
+  "symbols-prettifier"
 ]
