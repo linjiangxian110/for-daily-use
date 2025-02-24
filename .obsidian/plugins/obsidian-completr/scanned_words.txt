@@ -12604,6 +12604,7 @@ Duchess
 December
 Deeping
 Descent
+Deep
 true
 tuple
 tie
@@ -149205,6 +149206,7 @@ encompassing
 expanding
 enforcing
 economy
+epoch
 out
 of
 or
@@ -171160,6 +171162,9 @@ RoboCup
 Renaissance
 RAM
 Regression
+ReLU
+Rectified
+ReLu
 Error
 Edge
 Extended
@@ -190412,6 +190417,8 @@ Bedford
 BCD
 Bus
 BACE
+Backpropagation
+Brief
 Applying
 AcWing
 Adjacent
@@ -195473,6 +195480,7 @@ ACD
 ALU
 AXXX
 ACE
+Activation
 LCS
 LL
 LIS
@@ -280510,6 +280518,7 @@ Ocean
 October
 Once
 Optimization
+Overfitting
 Queue
 QU
 QEDUk
