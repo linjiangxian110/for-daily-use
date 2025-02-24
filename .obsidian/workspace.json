@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 inbox/of-Excel/班委会议及Excel分享讲解.md",
+                "file": "00 inbox/日常学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "班委会议及Excel分享讲解"
+              "title": "日常学习"
             }
           }
         ]
@@ -189,8 +189,10 @@
   },
   "active": "03f7dfb48bd12f8c",
   "lastOpenFiles": [
-    "00 inbox/数据结构与算法刷题记录.md",
+    "00 inbox/计算机组成原理笔记.md",
     "00 inbox/日常学习.md",
+    "00 inbox/of-Excel/班委会议及Excel分享讲解.md",
+    "00 inbox/数据结构与算法刷题记录.md",
     "00 inbox/深度学习.md",
     "00 inbox/学习安排.md",
     "00 inbox/of-obsidian/obsidian的使用学习.md",
@@ -205,7 +207,6 @@
     "00 attachment/Pasted image 20250223193341.png",
     "00 attachment/Pasted image 20250223193321.png",
     "00 attachment/Pasted image 20250223193128.png",
-    "00 inbox/计算机组成原理笔记.md",
     "00 inbox/临时使用/经验分享.md",
     "00 inbox/of-C++/C++ 学习的单词记录.md",
     "00 inbox/of-C++/C++的学习记录.md",
@@ -224,7 +225,6 @@
     "00 inbox/临时使用/函数分析.md",
     "00 inbox/临时使用/学习经验分享会总结.md",
     "00 inbox/临时使用/集合实验运行结果.md",
-    "00 inbox/临时使用/国奖增补候选人需要做的工作.md",
     "未命名",
     "PPT",
     "00 inbox/of-Excel/Excel人员去向统计操作.html",
