@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 inbox/未命名.md",
+                "file": "00 inbox/会议记录/2-24 班长会记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2-24 班长会记录"
             }
           }
         ]
@@ -190,6 +190,8 @@
   "active": "03f7dfb48bd12f8c",
   "lastOpenFiles": [
     "00 inbox/数据结构与算法刷题记录.md",
+    "00 inbox/会议记录/2-24 班长会记录.md",
+    "00 inbox/会议记录",
     "00 inbox/未命名.md",
     "00 attachment/Pasted image 20250224201945.png",
     "00 inbox/日常学习.md",
@@ -223,8 +225,6 @@
     "00 inbox/临时使用/关于学院数字逻辑实验课程考核标准的统一：.md",
     "00 inbox/临时使用/工作标准.md",
     "00 inbox/临时使用/毛概复习.md",
-    "00 inbox/临时使用/函数分析.md",
-    "00 inbox/临时使用/学习经验分享会总结.md",
     "未命名",
     "PPT",
     "00 inbox/of-Excel/Excel人员去向统计操作.html",
@@ -234,7 +234,6 @@
     "日记",
     "00 inbox/日记",
     "00 inbox/临时使用",
-    "00 inbox/离散数学",
     "未命名.canvas",
     "02 算法整理/00 算法导图.canvas",
     "02 算法整理/未命名.canvas"
