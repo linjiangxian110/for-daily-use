@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 inbox/计算机组成原理笔记.md",
+                "file": "00 inbox/of-git/the-use-of git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机组成原理笔记"
+              "title": "the-use-of git"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "03f7dfb48bd12f8c",
   "lastOpenFiles": [
+    "00 inbox/计算机组成原理笔记.md",
     "00 inbox/数据结构与算法刷题记录.md",
     "00 inbox/of-obsidian/obsidian的使用学习.md",
     "00 attachment/Pasted image 20250224214936.png",
-    "00 inbox/计算机组成原理笔记.md",
     "00 inbox/会议记录/2-24 班长会记录.md",
     "00 inbox/会议记录",
     "00 inbox/未命名.md",
