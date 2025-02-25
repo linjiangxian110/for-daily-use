@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "57216c76224f52fc",
+        "id": "482a59dc3c8723c8",
         "type": "tabs",
         "children": [
           {
-            "id": "03f7dfb48bd12f8c",
+            "id": "55284b07b93f06fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 inbox/学习安排.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习安排"
+              "title": "新标签页"
             }
           }
         ]
@@ -187,9 +183,16 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "03f7dfb48bd12f8c",
+  "active": "55284b07b93f06fc",
   "lastOpenFiles": [
-    "00 inbox/计算机组成原理笔记.md",
+    "00 inbox/daily/学习安排.md",
+    "00 inbox/daily/计算机组成原理笔记.md",
+    "00 inbox/of-obsidian/obsidian的使用学习.md",
+    "00 inbox/daily",
+    "00 inbox/daily.md",
+    "00 inbox/daily/深度学习.md",
+    "00 inbox/daily/数据结构与算法刷题记录.md",
+    "00 inbox/daily/日常学习.md",
     "00 attachment/Pasted image 20250225110941.png",
     "00 attachment/Pasted image 20250225110745.png",
     "00 attachment/Pasted image 20250225110226.png",
@@ -200,16 +203,11 @@
     "00 attachment/Pasted image 20250225104835.png",
     "00 attachment/Pasted image 20250225104812.png",
     "00 attachment/Pasted image 20250225104429.png",
-    "00 inbox/心得感悟篇.md",
+    "00 inbox/daily/心得感悟篇.md",
     "00 inbox/of-git/the-use-of git.md",
-    "00 inbox/数据结构与算法刷题记录.md",
-    "00 inbox/of-obsidian/obsidian的使用学习.md",
     "00 inbox/会议记录/2-24 班长会记录.md",
     "00 inbox/会议记录",
-    "00 inbox/日常学习.md",
     "00 inbox/of-Excel/班委会议及Excel分享讲解.md",
-    "00 inbox/深度学习.md",
-    "00 inbox/学习安排.md",
     "00 inbox/临时使用/计智院四六级学习打卡激励计划.md",
     "00 inbox/临时使用/经验分享.md",
     "00 inbox/of-C++/C++ 学习的单词记录.md",
@@ -224,7 +222,6 @@
     "00 inbox/临时使用/英语复习.md",
     "00 inbox/临时使用/关于学院数字逻辑实验课程考核标准的统一：.md",
     "00 inbox/临时使用/工作标准.md",
-    "00 inbox/临时使用/毛概复习.md",
     "未命名",
     "PPT",
     "00 inbox/of-Excel/Excel人员去向统计操作.html",
@@ -233,7 +230,6 @@
     "00 template",
     "日记",
     "00 inbox/日记",
-    "00 inbox/临时使用",
     "未命名.canvas",
     "02 算法整理/00 算法导图.canvas",
     "02 算法整理/未命名.canvas"
